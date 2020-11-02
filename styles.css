@@ -3,7 +3,7 @@
     background:#f5f5f5;
     font-size:35px;
     font-family:monospace;
-    border-radius:50px;
+    /* border-radius:50px; */
   }
 
 .typing-text{
@@ -13,6 +13,7 @@
     overflow:hidden;
     animation:typing 2s steps(25,end) forwards,
               blink 1s infinite;
+    background:#f5f5f5;
   }
 
   @keyframes typing {
@@ -27,3 +28,45 @@
     50% {
       border-right:2px solid #222;
     }
+}
+
+body {
+    background-color: black;
+}
+
+#contact-info {
+    text-align: center;
+    background: mintcream;
+}
+
+p {
+    color: green;
+}
+
+h2 {
+    color: mediumblue;
+    text-align: center;
+}
+
+#skills {
+    text-align: center;
+    background: mintcream;
+}
+
+.summary {
+    text-align: center;
+    background: mintcream;
+}
+
+li {
+    list-style-type: none;
+    color: green;
+}
+
+#projects {
+    background: mintcream;
+}
+
+h3 {
+    color: white;
+}
