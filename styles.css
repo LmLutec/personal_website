@@ -8,9 +8,10 @@
 
 .typing-text{
     margin:0px;
+    text-align: center;
     white-space:nowrap;
     overflow:hidden;
-    animation:typing 4s steps(22,end) forwards,
+    animation:typing 2s steps(25,end) forwards,
               blink 1s infinite;
   }
 
