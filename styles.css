@@ -3,6 +3,7 @@
     background:#f5f5f5;
     font-size:35px;
     font-family:monospace;
+    background: #BC7414;
     /* border-radius:50px; */
   }
 
@@ -13,7 +14,7 @@
     overflow:hidden;
     animation:typing 2s steps(25,end) forwards,
               blink 1s infinite;
-    background:#f5f5f5;
+    /* background:#f5f5f5; */
   }
 
   @keyframes typing {
@@ -31,42 +32,49 @@
 }
 
 body {
-    background-color: black;
+    background-color: #64738c;
 }
 
 #contact-info {
     text-align: center;
-    background: mintcream;
+    /* background:  ; */
 }
 
 p {
-    color: green;
+    color: #041414;
 }
 
 h2 {
-    color: mediumblue;
+    color: #BC7414;
     text-align: center;
 }
 
 #skills {
     text-align: center;
-    background: mintcream;
+    /* background: mintcream; */
 }
 
 .summary {
     text-align: center;
-    background: mintcream;
+    /* width: 600px; */
+    /* margin: 400px; */
+    /* padding: 0px; */ 
+    /* background: mintcream; */
 }
 
 li {
     list-style-type: none;
-    color: green;
+    color: #041414;
 }
 
-#projects {
-    background: mintcream;
-}
+/* #projects { */
+    /* background: mintcream; */
+/* } */
 
 h3 {
+    color: white;
+}
+
+i {
     color: white;
 }
