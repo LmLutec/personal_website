@@ -56,7 +56,9 @@ h2 {
 
 .summary {
     text-align: center;
-    /* width: 600px; */
+    width: 40em;
+    margin: auto;
+
     /* margin: 400px; */
     /* padding: 0px; */ 
     /* background: mintcream; */
@@ -67,9 +69,10 @@ li {
     color: #041414;
 }
 
-/* #projects { */
-    /* background: mintcream; */
-/* } */
+#projects { 
+    margin: auto;
+    width: 60em; 
+ }
 
 h3 {
     color: white;
