@@ -27,7 +27,7 @@
   }
 
   #projects {
-    background-color: #F6EDCC;
+    /* background-color: #F6EDCC; */
     padding: 10px;
     min-height: 100vh;
     flex-direction: row;
