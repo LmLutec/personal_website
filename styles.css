@@ -29,8 +29,9 @@
   #projects {
     background-color: #F6EDCC;
     display: inline-block;
-    /* left: 100px; */
     padding: 10px;
+    min-height: 100vh;
+    flex-direction: row;
     color: #4712A2;
     font-weight: bold;
     font-family: "Comic Sans MS", cursive, sans-serif;
