@@ -26,6 +26,28 @@
     font-size: 17px;
   }
 
+  #projects {
+    background-color: #F6EDCC;
+    display: inline-block;
+    /* left: 100px; */
+    padding: 10px;
+    color: #4712A2;
+    font-weight: bold;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+   }
+  
+   .project {
+     float: left;
+     padding: 40px;
+     box-shadow: 0 8px 10px 0 rgba(0,0,0,0.19);
+     transition: transform .2s;
+   }
+  
+   .project:hover {
+    transform: scale(1.5);
+    background-color: #FBCA17;
+   }
+
   @keyframes typing {
     0% { width:0% }
     100% { width:100% }
