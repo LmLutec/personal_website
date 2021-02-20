@@ -40,6 +40,10 @@ body {
     /* background:  ; */
 }
 
+div#education {
+    text-align: center;
+}
+
 p {
     color: #041414;
 }
