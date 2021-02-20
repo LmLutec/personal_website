@@ -19,6 +19,7 @@
 
   .contact {
       float: left;
+      padding: 20px;
   }
 
   @keyframes typing {
