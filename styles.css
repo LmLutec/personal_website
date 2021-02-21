@@ -97,7 +97,6 @@ body {
 }
 
 .description{
-    /* display: inline-block; */
     text-align: left;
     overflow: hidden;
 }
