@@ -75,6 +75,7 @@ body {
 
 .description{
     display: inline;
+    text-align: justify;
 }
 
 div#education {
