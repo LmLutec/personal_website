@@ -78,9 +78,9 @@ body {
     text-align: left;
 }
 
-/* div#education {
+div#education {
     text-align: center;
-} */
+}
 
 p {
     color: #041414;
@@ -96,7 +96,8 @@ h2 {
 }
 
 #skills {
-    text-align: center;
+    float: left;
+    display: inline;
     /* background: mintcream; */
 }
 
