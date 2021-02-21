@@ -72,6 +72,9 @@
     float: left;
 }
 
+#ed-heading {
+    padding: 10px;
+}
 
   @keyframes typing {
     0% { width:0% }
