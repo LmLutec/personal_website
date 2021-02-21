@@ -75,12 +75,12 @@ body {
 
 .description{
     display: inline;
-    text-align: justify;
+    text-align: left;
 }
 
-div#education {
+/* div#education {
     text-align: center;
-}
+} */
 
 p {
     color: #041414;
