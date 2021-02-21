@@ -109,7 +109,7 @@ h2 {
 
 #skills {
     float: left;
-    display: inline;
+    /* display: inline; */
     position: absolute;
     top: 100;
     right: 0;
