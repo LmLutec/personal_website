@@ -15,7 +15,7 @@
   }
 
   .skill-logo {
-      width: 50px;
+      width: 20px;
   }
 
 .typing-text{
@@ -129,4 +129,8 @@ a {
 
 a:visited {
     text-decoration-color: none;
+}
+
+img {
+    width: 300px;
 }
