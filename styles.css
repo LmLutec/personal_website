@@ -100,7 +100,7 @@ body {
 .description{
     display: inline;
     text-align: left;
-    white-space: nowrap;
+    white-space: normal;
     overflow: hidden;
 }
 
