@@ -102,7 +102,7 @@ body {
 }
 
 div#education {
-    display: inline-block;
+    display: block;
 }
 
 p {
