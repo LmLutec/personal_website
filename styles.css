@@ -124,5 +124,5 @@ a {
 }
 
 a:visited {
-    text-decoration: none;
+    text-decoration-color: none;
 }
