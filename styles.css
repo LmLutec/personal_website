@@ -103,7 +103,7 @@ h2 {
 
 #skills.fixed {
     position: fixed;
-    bottom: 0;
+    top: 100;
     right: 0;
 }
 
