@@ -49,6 +49,21 @@
      box-shadow: 0 8px 10px 0 rgba(0,0,0,0.19);
    }
 
+   #projects { 
+    margin: auto;
+    width: 60em; 
+    padding: 10px;
+    min-height: 100vh;
+    flex-direction: row;
+    font-weight: bold;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+
+  .project-logo {
+    float: left;
+}
+
+
   @keyframes typing {
     0% { width:0% }
     100% { width:100% }
@@ -91,21 +106,16 @@ h2 {
     text-align: center;
 }
 
-.project-logo {
-    float: left;
-}
 
 #skills {
     float: left;
     display: inline;
-    /* background: mintcream; */
-}
-
-#skills.fixed {
     position: absolute;
     top: 100;
     right: 0;
+    /* background: mintcream; */
 }
+
 
 .summary {
     text-align: center;
@@ -120,16 +130,6 @@ h2 {
 li {
     list-style-type: none;
     color: #041414;
-}
-
-#projects { 
-    margin: auto;
-    width: 60em; 
-    padding: 10px;
-    min-height: 100vh;
-    flex-direction: row;
-    font-weight: bold;
-    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 
