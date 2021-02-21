@@ -82,6 +82,10 @@ body {
     /* background:  ; */
 }
 
+.description{
+    display: inline;
+}
+
 div#education {
     text-align: center;
 }
