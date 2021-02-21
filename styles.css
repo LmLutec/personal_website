@@ -101,6 +101,12 @@ h2 {
     /* background: mintcream; */
 }
 
+#skills.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
 .summary {
     text-align: center;
     width: 40em;
