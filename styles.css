@@ -14,9 +14,12 @@
     width: 300px;
   }
 
+  .skill {
+    float: left;
+  }
+
   .skill-logo {
       width: 50px;
-      float: left;
   }
 
 .typing-text{
