@@ -99,6 +99,10 @@ h2 {
     text-align: center;
 }
 
+#project-logo {
+    float: left;
+}
+
 #skills {
     text-align: center;
     /* background: mintcream; */
@@ -142,5 +146,4 @@ a:visited {
 
 img {
     width: 150px;
-    float: left;
 }
