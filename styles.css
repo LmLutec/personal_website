@@ -137,12 +137,12 @@ li {
 }
 
 
-h3 {
+h3, h4 {
     color: white;
 }
 
 i {
-    color: white;
+    color: black;
 }
 
 a {
