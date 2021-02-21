@@ -103,7 +103,8 @@ body {
 }
 
 div#education {
-    text-align: left;
+    top: 128px;
+    right: 0;
 }
 
 p {
