@@ -118,3 +118,7 @@ h3 {
 i {
     color: white;
 }
+
+a {
+    text-decoration: none;
+}
