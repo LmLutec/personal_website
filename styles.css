@@ -100,11 +100,8 @@ body {
 .description{
     display: inline;
     text-align: left;
-}
-
-.no-wrap-text {
     overflow: hidden;
-  }
+}
 
 div#education {
     text-align: center;
