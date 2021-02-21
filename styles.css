@@ -64,7 +64,7 @@
     min-height: 100vh;
     flex-direction: row;
     font-weight: bold;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    /* font-family: "Comic Sans MS", cursive, sans-serif; */
   }
 
   .project-logo {
@@ -88,6 +88,7 @@
 
 body {
     background-color: #64738c;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #contact-info {
