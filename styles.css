@@ -41,15 +41,6 @@
     text-decoration: none;
     font-size: 17px;
   }
-
-  #projects {
-    /* background-color: #F6EDCC; */
-    padding: 10px;
-    min-height: 100vh;
-    flex-direction: row;
-    font-weight: bold;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-   }
   
    .project {
      float: left;
@@ -126,7 +117,13 @@ li {
 #projects { 
     margin: auto;
     width: 60em; 
- }
+    padding: 10px;
+    min-height: 100vh;
+    flex-direction: row;
+    font-weight: bold;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
 
 h3 {
     color: white;
