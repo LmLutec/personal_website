@@ -53,6 +53,11 @@
     font-size: 17px;
   }
   
+  .contact:hover {
+    border-bottom: 5px solid white;
+  }
+
+
    .project {
      float: left;
      width: 60em;
