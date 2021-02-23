@@ -24,6 +24,9 @@
     position: absolute;
     top: 128px;
     left: 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
     /* background: mintcream; */
 }
 
